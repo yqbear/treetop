@@ -244,7 +244,7 @@
 		</dict>
 	</dict>
 	<key>scopeName</key>
-	<string>source.treetop</string>
+	<string>source.ruby.treetop</string>
 	<key>uuid</key>
 	<string>A1604A34-0B73-4D5A-9499-87D881DFA8D5</string>
 </dict>
